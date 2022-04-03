@@ -209,7 +209,7 @@ header .navbar ul li a:hover{
     49% { background-color: #eee; }
     50% { background-color: transparent; }
     99% { background-color: transparent; }
-    100%  { background-color: #f9ca24; }
+    100%  { background-color: #ffc800; }
   }
 
 .home p{
@@ -437,7 +437,7 @@ span {
     position: fixed;
     bottom:7.5rem; right: 2rem;
     z-index: 100;
-    display: none;
+    /* display: none; */
     background-color: #ffe600;
     /* background-color: #222; */
     border-radius: 50%;
@@ -572,7 +572,7 @@ span {
         font-size: 49%;
     }
     .home h1{
-        font-size: 3.2rem;
+        font-size: 3rem;
     }
  }
 
